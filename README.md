@@ -7,6 +7,7 @@ Tareas De Mineria de Datos-FCFM
 [Bases de Datos Equipo] (https://github.com/AnakarenSegovia/Mineriadatos/blob/main/Ej1_BasesDatos_Equipo_5.pdf)
 
 [Ejercicios Basicos Python] (https://github.com/FranciscoEve/Mineria-De-Datos/blob/main/EJERCICIOS_PYTHON.md)
+
 [Ejercicios Basicos_Python Parte2] (https://github.com/FranciscoEve/Mineria-De-Datos/blob/main/EJERCICIOS_PYTHON_P2.md)
 
 [Ejercicio Limpieza De Datos Equipo] (https://github.com/EdsonGzz/mineriaDdatos/blob/main/Ej_Limpieza_Equipo5.ipynb)
